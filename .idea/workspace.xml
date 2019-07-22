@@ -2,56 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0d13ef-8f2d-4165-bf73-6dfe19025d0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/programmers/fourmaester/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/shortesdistance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/counseler7227/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/rhs7988/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/add_odd/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/bridge_truck/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/bridge_truck/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/heap/diskcontroller/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/heap/diskcontroller/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/joystick/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/joystick/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/kakao2017/bryan/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/kakao2017/bryan/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/kakao2017/coloringbook/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/kakao2017/coloringbook/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/kakao2017/coloringbook/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/kakao2017/iu/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/kakao2017/iu/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/kakao2017/meeting/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/kakao2017/meeting/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/numgame/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/numgame/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/swexpertacademy/palindrome1215/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algor/swexpertacademy/palindrome1215/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/three/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/three/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/tipstown/tournament/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/tipstown/tournament/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/visa/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/visa/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/add_odd/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/add_odd/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bridge_truck/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/bridge_truck/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heap/diskcontroller/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/diskcontroller/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heap/diskcontroller/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/diskcontroller/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/joystick/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/joystick/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/joystick/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/joystick/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kakao2017/bryan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/kakao2017/bryan/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kakao2017/bryan/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/kakao2017/bryan/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kakao2017/coloringbook/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/kakao2017/coloringbook/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kakao2017/coloringbook/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/kakao2017/coloringbook/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kakao2017/iu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/kakao2017/iu/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kakao2017/iu/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/kakao2017/iu/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kakao2017/meeting/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/kakao2017/meeting/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kakao2017/meeting/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/kakao2017/meeting/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numgame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/numgame/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numgame/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/numgame/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/three/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/three/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tipstown/tournament/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/tournament/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tipstown/tournament/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/tournament/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/visa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/visa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/edit_terrain/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,98 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/swexpertacademy/interpreter7675/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/swexpertacademy/SEM7532/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" selection-start-line="2" selection-end-line="40" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/swexpertacademy/sangwon7510/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/swexpertacademy/noglasses7272/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/swexpertacademy/palindrome1215/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/swexpertacademy/counseler7227/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/swexpertacademy/rhs7988/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/programmers/fourmaester/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/programmers/shortesdistance/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/programmers/edit_terrain/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-176">
-              <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="336">
+              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -220,6 +84,7 @@
         <option value="$PROJECT_DIR$/src/programmers/fourmaester/Main.java" />
         <option value="$PROJECT_DIR$/src/programmers/shortesdistance/Solution.java" />
         <option value="$PROJECT_DIR$/src/programmers/shortesdistance/Main.java" />
+        <option value="$PROJECT_DIR$/src/programmers/edit_terrain/Main.java" />
       </list>
     </option>
   </component>
@@ -257,7 +122,7 @@
               <item name="algor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
-              <item name="shortesdistance" type="462c0819:PsiDirectoryNode" />
+              <item name="edit_terrain" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -299,7 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.shortesdistance.Main" />
       <module name="algor" />
@@ -313,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.fourmaester.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.edit_terrain.Main" />
       <module name="algor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.fourmaester.*" />
+          <option name="PATTERN" value="programmers.edit_terrain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swexpertacademy.sangwon7510.Solution" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.fourmaester.Main" />
       <module name="algor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swexpertacademy.sangwon7510.*" />
+          <option name="PATTERN" value="programmers.fourmaester.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -390,12 +255,12 @@
       <workItem from="1563237321893" duration="5213000" />
       <workItem from="1563244396115" duration="32780000" />
       <workItem from="1563352905442" duration="45943000" />
-      <workItem from="1563753854149" duration="10579000" />
+      <workItem from="1563753854149" duration="17229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109511000" />
+    <option name="totallyTimeSpent" value="116161000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="2560" height="1440" extended-state="0" />
@@ -705,9 +570,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/fourmaester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/fourmaester/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/shortesdistance/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/swexpertacademy/interpreter7675/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
+        <state relative-caret-position="756">
           <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -731,7 +617,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/swexpertacademy/noglasses7272/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="399">
           <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -756,31 +642,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/fourmaester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/swexpertacademy/rhs7988/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/fourmaester/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/shortesdistance/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -796,11 +661,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/programmers/shortesdistance/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-176">
-          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        <state relative-caret-position="294">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="15" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/edit_terrain/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
         </state>
       </provider>
     </entry>
