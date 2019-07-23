@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0d13ef-8f2d-4165-bf73-6dfe19025d0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/programmers/kakao2017/navigation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/programmers/edit_terrain/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/programmers/edit_terrain/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/programmers/fourmaester/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algor/programmers/fourmaester/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/programmers/fourmaester/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algor/programmers/fourmaester/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/programmers/summer2018/english/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algor/programmers/summer2018/english/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algor/programmers/summer2018/english/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algor/programmers/summer2018/english/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/fourmaester/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/fourmaester/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/tipstown/pair/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/tipstown/pair/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/kakao2017/mysteryadventure/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/programmers/summer2018/edit_terrain/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/winterdistance/Main.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/programmers/kakao2017/navigation/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="496">
@@ -106,6 +88,27 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#1446#1447#0" expanded="true" />
                 <element signature="e#1493#1494#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/programmers/kakao2017/mysteryadventure/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/programmers/kakao2018a/prizehunter/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="508">
+              <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -176,6 +179,8 @@
         <option value="$PROJECT_DIR$/src/programmers/tipstown/pair/Main.java" />
         <option value="$PROJECT_DIR$/src/programmers/fourmaester/Main.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao2017/navigation/Main.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao2017/mysteryadventure/Main.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao2018a/prizehunter/Solution.java" />
       </list>
     </option>
   </component>
@@ -237,8 +242,7 @@
               <item name="algor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
-              <item name="kakao2017" type="462c0819:PsiDirectoryNode" />
-              <item name="navigation" type="462c0819:PsiDirectoryNode" />
+              <item name="prizehunter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -370,15 +374,16 @@
       <workItem from="1563244396115" duration="32780000" />
       <workItem from="1563352905442" duration="45943000" />
       <workItem from="1563753854149" duration="22730000" />
-      <workItem from="1563840053791" duration="12962000" />
+      <workItem from="1563840053791" duration="15525000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134624000" />
+    <option name="totallyTimeSpent" value="137187000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="2560" height="1440" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14019063" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -801,6 +806,23 @@
             <element signature="imports" expanded="true" />
             <element signature="e#1446#1447#0" expanded="true" />
             <element signature="e#1493#1494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao2017/mysteryadventure/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao2018a/prizehunter/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
