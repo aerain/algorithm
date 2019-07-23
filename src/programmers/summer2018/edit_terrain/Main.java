@@ -1,4 +1,4 @@
-package programmers.edit_terrain;
+package programmers.summer2018.edit_terrain;
 class Solution {
     public long solution(int[][] land, int P, int Q) {
         long answer = Long.MAX_VALUE;
