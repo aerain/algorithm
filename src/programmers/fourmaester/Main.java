@@ -1,7 +1,6 @@
 package programmers.fourmaester;
 
 import java.util.*;
-import java.util.stream.IntStream;
 
 class Solution {
     public int solution(String arr[]) {
@@ -14,16 +13,25 @@ class Solution {
         }
 
 
-        int temp;
+        int temp, offset;
+        int[] temparr;
         Queue<int[]> queue = new LinkedList<>();
         queue.offer(list);
         while(!queue.isEmpty()) {
             int[] poll = queue.poll();
             for(int i = 0; i < poll.length - 1; i += 2) {
-                final int idx = i;
-                temp = poll[idx + 1] == 1001 ? poll[idx] - poll[idx+ 2] : poll[idx] + poll[idx + 2];
-                int[] temparr = IntStream.range(0, poll.length).filter(index -> index != idx + 1 && index != idx + 2).map(index -> poll[index]).toArray();
-                temparr[idx] = temp;
+                temp = poll[i + 1] == 1001 ? poll[i] - poll[i+ 2] : poll[i] + poll[i + 2];
+                temparr = new int[poll.length - 2];
+                offset = 0;
+                for(int j = 0; j < poll.length; j++) {
+                    if(j == i + 1 || j == i + 2) {
+                        offset++;
+                    } else if( j == i) {
+                        temparr[j] = temp;
+                    } else {
+                        temparr[j - offset] = poll[j];
+                    }
+                }
                 if(temparr.length == 1) {
                     answer = Math.max(answer, temparr[0]);
                 } else {
