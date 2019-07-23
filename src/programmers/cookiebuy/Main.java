@@ -14,6 +14,9 @@ class Solution {
         cookieSet.add(status);
         int firstSum;
         int secondSum;
+        // 하드코딩... limit...
+        int limit = 64;
+        int count = 0;
         while(!cookieQueue.isEmpty()) {
             try {
                 status = cookieQueue.poll();
@@ -49,8 +52,14 @@ class Solution {
 
                 } else {
                     if(firstSum > answer) answer = firstSum;
-                    else break;
+
                 }
+
+                if(count == limit) {
+                    if(answer != 0) break;
+                    else limit *= limit;
+                }
+                count++;
             } catch (Exception ignored) {}
         }
 
