@@ -7,26 +7,19 @@ public class Solution {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-
         int T = Integer.parseInt(br.readLine());
         int N;
         for(int t = 1; t <= T; t++) {
             N = Integer.parseInt(br.readLine());
-            Set<String> names = new HashSet<>();
-            for(int i = 0; i < N; i++) names.add(br.readLine());
-            PriorityQueue<String> members = new PriorityQueue<>(names.size(), (o1, o2) -> {
-               if(o1.length() < o2.length()) return -1;
-               else if(o1.length() > o2.length()) return 1;
-               else return o1.compareTo(o2);
+            Set<String> names = new TreeSet<>((o1, o2) -> {
+                if(o1.length() < o2.length()) return -1;
+                else if(o1.length() > o2.length()) return 1;
+                else return o1.compareTo(o2);
             });
-
-            members.addAll(names);
-
+            for(int i = 0; i < N; i++) names.add(br.readLine());
             bw.write("#" + t + "\n");
-            while(!members.isEmpty()) bw.write(members.poll() + "\n");
-
+            for (String name : names) bw.write(name + "\n");
         }
-
         br.close();
         bw.close();
     }
