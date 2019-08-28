@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0d13ef-8f2d-4165-bf73-6dfe19025d0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/programmers/kakao2017/third/방금그곡/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/kakao2017/third/방금그곡/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/kakao2017/third/압축/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/kakao2017/third/압축/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,14 +16,14 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.6973065">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/programmers/kakao2017/third/방금그곡/Solution.java">
+            <entry file="file://$PROJECT_DIR$/src/programmers/kakao2017/third/압축/Solution.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="861">
-                  <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+                <state relative-caret-position="210">
+                  <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
                 </state>
               </provider>
             </entry>
@@ -32,12 +31,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+        <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/programmers/kakao2017/third/방금그곡/Main.java">
+            <entry file="file://$PROJECT_DIR$/src/programmers/kakao2017/third/압축/Main.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="168">
-                  <caret line="8" column="107" selection-start-line="8" selection-start-column="107" selection-end-line="8" selection-end-column="107" />
+                  <caret line="8" column="86" selection-start-line="8" selection-start-column="86" selection-end-line="8" selection-end-column="86" />
                 </state>
               </provider>
             </entry>
@@ -65,8 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/swexpertacademy/wrong7853/Solution.java" />
-        <option value="$PROJECT_DIR$/src/swexpertacademy/timesense7732/Solution.java" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/diversity7728/Solution.java" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/interpreter7675/Solution.java" />
         <option value="$PROJECT_DIR$/src/swexpertacademy/SEM7532/Solution.java" />
@@ -116,6 +113,8 @@
         <option value="$PROJECT_DIR$/src/programmers/kakao2017/traffic/Solution.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao2017/third/방금그곡/Main.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao2017/third/방금그곡/Solution.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao2017/third/압축/Main.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao2017/third/압축/Solution.java" />
       </list>
     </option>
   </component>
@@ -155,6 +154,23 @@
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
               <item name="kakao2017" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="kakao2017" type="462c0819:PsiDirectoryNode" />
+              <item name="third" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="kakao2017" type="462c0819:PsiDirectoryNode" />
+              <item name="third" type="462c0819:PsiDirectoryNode" />
+              <item name="압축" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -181,11 +197,11 @@
       <recent name="swexpertacademy.rhs7988" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="programmers.kakao2017.third.압축" />
       <recent name="programmers.kakao2017.third.방금그곡" />
       <recent name="programmers.kakao2017.traffic" />
       <recent name="programmers.kakao2017.newsclustering" />
       <recent name="programmers.kakao2017.shuttlebus" />
-      <recent name="programmers.kakao2017.friends4block" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -200,13 +216,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.kakao2017.friends4block.Main" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.kakao2017.third.압축.Main" />
       <module name="algor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.kakao2017.friends4block.*" />
+          <option name="PATTERN" value="programmers.kakao2017.third.압축.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,11 +284,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -308,12 +324,12 @@
       <workItem from="1566792249527" duration="15123000" />
       <workItem from="1566866207759" duration="26895000" />
       <workItem from="1566951574026" duration="657000" />
-      <workItem from="1566953019683" duration="3533000" />
+      <workItem from="1566953019683" duration="9917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="231090000" />
+    <option name="totallyTimeSpent" value="237474000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="2560" height="1440" extended-state="0" />
@@ -366,8 +382,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/programmers/fourmaester.java" />
-    <entry file="file://$PROJECT_DIR$/src/programmers/shortesdistance/Solution.java" />
     <entry file="file://$PROJECT_DIR$/src/swexpertacademy/interpreter7675/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
@@ -771,8 +785,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/programmers/kakao2017/third/방금그곡/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        <state relative-caret-position="559">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao2017/third/압축/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="86" selection-start-line="8" selection-start-column="86" selection-end-line="8" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao2017/third/압축/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
         </state>
       </provider>
     </entry>
