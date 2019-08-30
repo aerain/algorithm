@@ -1,9 +1,17 @@
 package programmers.kakao2017.third.자동완성;
 
+import java.util.*;
+
 public class Solution {
     public int solution(String[] words) {
-        int sum = 0;
+        Arrays.sort(words);
+        LinkedList<String> wordList = new LinkedList<>();
+        LinkedList<String> willRemoveWordList = new LinkedList<>();
 
-        return sum;
+        Arrays.sort(words);
+
+        return 0;
     }
 }
+
+
