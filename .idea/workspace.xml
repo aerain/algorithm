@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0d13ef-8f2d-4165-bf73-6dfe19025d0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/programmers/kakao2018/first/openchat/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/kakao2018/first/openchat/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/kakao2017/third/자동완성/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/kakao2017/third/자동완성/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/kakao2018/first/실패율/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmers/kakao2018/first/실패율/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/kakao2018/first/실패율/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,13 +20,10 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/programmers/kakao2018/first/openchat/Solution.java">
+            <entry file="file://$PROJECT_DIR$/src/programmers/kakao2018/first/실패율/Solution.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="546">
-                  <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
+                <state relative-caret-position="336">
+                  <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
                 </state>
               </provider>
             </entry>
@@ -38,10 +33,10 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/programmers/kakao2018/first/openchat/Main.java">
+            <entry file="file://$PROJECT_DIR$/src/programmers/kakao2018/first/실패율/Main.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="5" selection-start-line="5" selection-end-line="5" />
+                <state relative-caret-position="189">
+                  <caret line="9" column="83" selection-start-line="9" selection-start-column="83" selection-end-line="9" selection-end-column="83" />
                 </state>
               </provider>
             </entry>
@@ -69,8 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/programmers/edit_terrain/Main.java" />
-        <option value="$PROJECT_DIR$/src/programmers/winterdistance/Main.java" />
         <option value="$PROJECT_DIR$/src/programmers/cookiebuy/Main.java" />
         <option value="$PROJECT_DIR$/src/programmers/summer2018/english/Main.java" />
         <option value="$PROJECT_DIR$/src/programmers/tipstown/pair/Main.java" />
@@ -120,6 +113,8 @@
         <option value="$PROJECT_DIR$/src/programmers/kakao2017/third/자동완성/Solution.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao2018/first/openchat/Main.java" />
         <option value="$PROJECT_DIR$/src/programmers/kakao2018/first/openchat/Solution.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao2018/first/실패율/Main.java" />
+        <option value="$PROJECT_DIR$/src/programmers/kakao2018/first/실패율/Solution.java" />
       </list>
     </option>
   </component>
@@ -197,7 +192,15 @@
               <item name="algor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
-              <item name="openchat" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+              <item name="실패율" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algor" type="b2602c69:ProjectViewProjectNode" />
@@ -232,11 +235,11 @@
       <recent name="swexpertacademy.rhs7988" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="programmers.kakao2018.first.실패율" />
       <recent name="programmers.kakao2018.first.openchat" />
       <recent name="programmers.kakao2017.third.자동완성" />
       <recent name="programmers.kakao2017.third.압축" />
       <recent name="programmers.kakao2017.third.방금그곡" />
-      <recent name="programmers.kakao2017.traffic" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -251,13 +254,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.kakao2017.third.자동완성.Main" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.kakao2018.first.실패율.Main" />
       <module name="algor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.kakao2017.third.자동완성.*" />
+          <option name="PATTERN" value="programmers.kakao2018.first.실패율.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,11 +335,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -374,12 +377,12 @@
       <workItem from="1566951574026" duration="657000" />
       <workItem from="1566953019683" duration="14434000" />
       <workItem from="1567039239845" duration="17311000" />
-      <workItem from="1567123177593" duration="4984000" />
+      <workItem from="1567123177593" duration="8968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="264286000" />
+    <option name="totallyTimeSpent" value="268270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="2560" height="1440" extended-state="0" />
@@ -432,20 +435,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/programmers/summer2018/english/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/tipstown/pair/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" selection-start-line="2" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/programmers/numgame/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -855,6 +844,20 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao2018/first/실패율/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="83" selection-start-line="9" selection-start-column="83" selection-end-line="9" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/kakao2018/first/실패율/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
         </state>
       </provider>
     </entry>
