@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0d13ef-8f2d-4165-bf73-6dfe19025d0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/programmers/완주하지못한선수/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/완주하지못한선수/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swexpertacademy/permdivide38568/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/BitCounting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/CamelCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/CountingDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/DigPow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/EnoughIsEnough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/KataEncrypt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/MorseCodeDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/WriteExpandedForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/bridge_truck/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/bridge_truck/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +56,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -79,7 +85,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.완주하지못한선수.Main" />
       <module name="algor" />
@@ -119,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swexpertacademy.북북서8556.Solution" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.Main" />
       <module name="algor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swexpertacademy.북북서8556.*" />
+          <option name="PATTERN" value="codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -209,6 +215,7 @@
       <workItem from="1574061514680" duration="5438000" />
       <workItem from="1574820315274" duration="9000" />
       <workItem from="1574925648313" duration="3987000" />
+      <workItem from="1574988229029" duration="8835000" />
     </task>
     <servers />
   </component>
@@ -238,78 +245,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>algor</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
