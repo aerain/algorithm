@@ -4,12 +4,8 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-//        System.out.println(MorseCodeDecoder.decode(".... . -.--   .--- ..- -.. ."));
-        System.out.println(CamelCase.camelCase("test case"));
-        System.out.println(CamelCase.camelCase("camel case method"));
-        System.out.println(CamelCase.camelCase(" camel case word"));
-        System.out.println(CamelCase.camelCase("z"));
-        System.out.println(CamelCase.camelCase("ab  c"));
-        System.out.println(CamelCase.camelCase(""));
+        System.out.println( Greed.greedy(new int[]{5,1,3,4,1}));
+        System.out.println( Greed.greedy(new int[]{1,1,1,3,1}));
+        System.out.println( Greed.greedy(new int[]{2,4,4,5,4}));
     }
 }

@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0d13ef-8f2d-4165-bf73-6dfe19025d0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codewars/BitCounting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/CamelCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/CountingDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/DigPow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/EnoughIsEnough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/KataEncrypt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/MorseCodeDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/WriteExpandedForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/Greed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/예산/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/예산/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/징검다리/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/Prime.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,20 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.완주하지못한선수.Main" />
-      <module name="algor" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.완주하지못한선수.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.bridge_truck.Main" />
       <module name="algor" />
@@ -112,12 +95,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.기능개발.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.징검다리.Main" />
       <module name="algor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.기능개발.*" />
+          <option name="PATTERN" value="programmers.징검다리.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.예산.Main" />
+      <module name="algor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.예산.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +211,7 @@
       <workItem from="1574061514680" duration="5438000" />
       <workItem from="1574820315274" duration="9000" />
       <workItem from="1574925648313" duration="3987000" />
-      <workItem from="1574988229029" duration="8835000" />
+      <workItem from="1574988229029" duration="24181000" />
     </task>
     <servers />
   </component>
