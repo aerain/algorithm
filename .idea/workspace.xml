@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d0d13ef-8f2d-4165-bf73-6dfe19025d0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codewars/Chess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/LongestSlideDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/MoveTen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/RectangleRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/Scramblies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/SimilarSameDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/TimeFormatter.java" afterDir="false" />
+    <list default="true" id="1937c806-da17-4abd-aaa7-a97b8d5722b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/codewars/BitCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/Faberge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/PokerHand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/Spiralizor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algor.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codewars/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/TimeFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/TimeFormatter.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,93 +23,33 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>system</find>
-      <find>system.out</find>
-      <find>Iterator</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1T8IbyOQK72LvoqQYCMwGGD12gp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1UPksiXlcIeXgHY9S2GlAd95DG8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="last.edited.regexp" value="ABCDEFGdfdfABCDEFG" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="swexpertacademy.rhs7988" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="programmers.섬연결하기" />
-      <recent name="programmers.베스트앨범" />
-      <recent name="programmers.kakao2018.first.무지의먹방라이브" />
-      <recent name="programmers.kakao2018.first.후보키" />
-      <recent name="programmers.kakao2018.first.실패율" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.징검다리.Main" />
-      <module name="algor" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.징검다리.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.예산.Main" />
-      <module name="algor" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.예산.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codewars.Main" />
       <module name="algor" />
@@ -125,98 +63,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swexpertacademy.permdivide38568.Solution" />
-      <module name="algor" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="swexpertacademy.permdivide38568.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="codewars.MoveTenKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="algor" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="codewars.MoveTenKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Kotlin.codewars.MoveTenKt" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6d0d13ef-8f2d-4165-bf73-6dfe19025d0c" name="Default Changelist" comment="" />
-      <created>1562649306917</created>
+      <changelist id="1937c806-da17-4abd-aaa7-a97b8d5722b1" name="Default Changelist" comment="" />
+      <created>1575265825285</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562649306917</updated>
-      <workItem from="1562895818680" duration="14947000" />
-      <workItem from="1563152500254" duration="49000" />
-      <workItem from="1563237321893" duration="5213000" />
-      <workItem from="1563244396115" duration="32780000" />
-      <workItem from="1563352905442" duration="45943000" />
-      <workItem from="1563753854149" duration="22730000" />
-      <workItem from="1563840053791" duration="18740000" />
-      <workItem from="1564113722111" duration="4553000" />
-      <workItem from="1564385812291" duration="2548000" />
-      <workItem from="1564445409069" duration="54000" />
-      <workItem from="1564445468024" duration="3000" />
-      <workItem from="1564445486979" duration="38000" />
-      <workItem from="1564445611262" duration="2979000" />
-      <workItem from="1564453885423" duration="32000" />
-      <workItem from="1564637498219" duration="16521000" />
-      <workItem from="1564968266627" duration="8633000" />
-      <workItem from="1564997867821" duration="934000" />
-      <workItem from="1565575909174" duration="5211000" />
-      <workItem from="1566778950532" duration="2974000" />
-      <workItem from="1566792249527" duration="15123000" />
-      <workItem from="1566866207759" duration="26895000" />
-      <workItem from="1566951574026" duration="657000" />
-      <workItem from="1566953019683" duration="14434000" />
-      <workItem from="1567039239845" duration="17311000" />
-      <workItem from="1567123177593" duration="17343000" />
-      <workItem from="1567383222337" duration="10797000" />
-      <workItem from="1567729786450" duration="9846000" />
-      <workItem from="1567750247673" duration="608000" />
-      <workItem from="1568852630926" duration="14452000" />
-      <workItem from="1568937961122" duration="12672000" />
-      <workItem from="1568967913676" duration="2408000" />
-      <workItem from="1569198832652" duration="75000" />
-      <workItem from="1569312801966" duration="2992000" />
-      <workItem from="1569544510663" duration="14960000" />
-      <workItem from="1569822909250" duration="111000" />
-      <workItem from="1569983470250" duration="1054000" />
-      <workItem from="1569985251092" duration="363000" />
-      <workItem from="1572835377690" duration="2444000" />
-      <workItem from="1572852509144" duration="2417000" />
-      <workItem from="1572911938716" duration="28000" />
-      <workItem from="1572944077195" duration="50000" />
-      <workItem from="1574061514680" duration="5438000" />
-      <workItem from="1574820315274" duration="9000" />
-      <workItem from="1574925648313" duration="3987000" />
-      <workItem from="1574988229029" duration="24198000" />
-      <workItem from="1575245586680" duration="15360000" />
+      <updated>1575265825285</updated>
+      <workItem from="1575265826961" duration="121000" />
+      <workItem from="1575266005483" duration="139000" />
+      <workItem from="1575266168538" duration="9230000" />
     </task>
     <servers />
   </component>
@@ -236,15 +113,34 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/programmers/diskcontroller/Solution.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="WindowStateProjectService">
+    <state x="2320" y="385" key="#Plugins" timestamp="1575266115136">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2320" y="385" key="#Plugins/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575266115136" />
+    <state width="2518" height="397" key="GridCell.Tab.0.bottom" timestamp="1575270737222">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="397" key="GridCell.Tab.0.bottom/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575270737222" />
+    <state width="2518" height="397" key="GridCell.Tab.0.center" timestamp="1575270737219">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="397" key="GridCell.Tab.0.center/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575270737219" />
+    <state width="2518" height="397" key="GridCell.Tab.0.left" timestamp="1575270737217">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="397" key="GridCell.Tab.0.left/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575270737217" />
+    <state width="2518" height="397" key="GridCell.Tab.0.right" timestamp="1575270737220">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="397" key="GridCell.Tab.0.right/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575270737220" />
+    <state x="2229" y="359" key="SettingsEditor" timestamp="1575266150740">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2229" y="359" key="SettingsEditor/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575266150740" />
+    <state x="2385" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1575267017775">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2385" y="331" width="670" height="676" key="search.everywhere.popup/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575267017775" />
   </component>
 </project>
