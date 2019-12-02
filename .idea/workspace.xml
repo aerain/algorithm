@@ -9,7 +9,6 @@
       <change afterPath="$PROJECT_DIR$/src/codewars/Scramblies.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/codewars/SimilarSameDigit.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/codewars/TimeFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algor.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codewars/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/Main.java" afterDir="false" />
@@ -217,7 +216,7 @@
       <workItem from="1574820315274" duration="9000" />
       <workItem from="1574925648313" duration="3987000" />
       <workItem from="1574988229029" duration="24198000" />
-      <workItem from="1575245586680" duration="15331000" />
+      <workItem from="1575245586680" duration="15360000" />
     </task>
     <servers />
   </component>
