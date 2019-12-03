@@ -1,7 +1,4 @@
-package codewars;
-
-import java.math.BigInteger;
-import java.util.Arrays;
+package codewars.java;
 
 public class Main {
     public static void main(String[] args) {

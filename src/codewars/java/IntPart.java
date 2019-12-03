@@ -1,4 +1,4 @@
-package codewars;
+package codewars.java;
 
 import java.util.ArrayList;
 import java.util.HashSet;

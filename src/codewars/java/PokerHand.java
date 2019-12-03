@@ -1,4 +1,4 @@
-package codewars;
+package codewars.java;
 
 public class PokerHand {
     public enum Result { TIE, WIN, LOSS }

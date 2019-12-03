@@ -1,4 +1,4 @@
-package codewars;
+package codewars.java;
 
 public class MorseCodeDecoder {
     public static String decode(String morseCode) {

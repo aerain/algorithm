@@ -1,4 +1,4 @@
-package codewars;
+package codewars.java;
 
 public class Spiralizor {
     public static int[][] spiralize(int size) {

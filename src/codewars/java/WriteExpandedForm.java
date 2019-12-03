@@ -1,4 +1,4 @@
-package codewars;
+package codewars.java;
 
 public class WriteExpandedForm {
     public static String expandedForm(int num) {

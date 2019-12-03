@@ -1,4 +1,4 @@
-package codewars;
+package codewars.java;
 
 public class TimeFormatter {
     public static String formatDuration(int seconds) {

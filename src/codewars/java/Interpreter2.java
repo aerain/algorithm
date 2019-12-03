@@ -1,4 +1,4 @@
-package codewars;
+package codewars.java;
 import java.util.Deque;
 import java.util.LinkedList;
 import java.util.regex.Matcher;

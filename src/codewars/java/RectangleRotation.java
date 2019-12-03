@@ -1,4 +1,4 @@
-package codewars;
+package codewars.java;
 
 public class RectangleRotation {
     public static int rectangleRotation(final int a, final int b) {

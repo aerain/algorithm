@@ -1,4 +1,4 @@
-package codewars;
+package codewars.java;
 
 public class DigPow {
     public static long digPow(int n, int p) {

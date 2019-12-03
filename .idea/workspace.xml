@@ -2,14 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1937c806-da17-4abd-aaa7-a97b8d5722b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codewars/BurrowsWheeler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/IntPart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/Interpreter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/PathFinder2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/PrimesPG13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/Runes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/kotlin/BuyCar.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codewars/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/BitCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/BitCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/BitCounting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/BitCounting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/BurrowsWheeler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/BurrowsWheeler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/CamelCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/CamelCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/Chess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/Chess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/CountingDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/CountingDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/DigPow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/DigPow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/EnoughIsEnough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/EnoughIsEnough.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/Faberge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/Faberge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/Greed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/Greed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/IntPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/IntPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/Interpreter2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/Interpreter2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/KataEncrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/KataEncrypt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/LongestSlideDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/LongestSlideDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/MorseCodeDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/MorseCodeDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/MoveTen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/MoveTen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/PathFinder2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/PathFinder2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/PokerHand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/PokerHand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/Prime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/PrimesPG13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/PrimesPG13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/RectangleRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/RectangleRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/Runes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/Runes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/Scramblies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/Scramblies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/SimilarSameDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/SimilarSameDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/Spiralizor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/Spiralizor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/TimeFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/TimeFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/WriteExpandedForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/WriteExpandedForm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +45,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -49,13 +72,13 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.codewars.kotlin.BuyCarKt">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.Main" />
+      <option name="MAIN_CLASS_NAME" value="codewars.java.Main" />
       <module name="algor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codewars.*" />
+          <option name="PATTERN" value="codewars.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,8 +86,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="codewars.kotlin.BuyCarKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="algor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="codewars.kotlin.BuyCarKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.codewars.kotlin.BuyCarKt" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -94,7 +131,7 @@
       <workItem from="1575265826961" duration="121000" />
       <workItem from="1575266005483" duration="139000" />
       <workItem from="1575266168538" duration="9708000" />
-      <workItem from="1575331396431" duration="19217000" />
+      <workItem from="1575331396431" duration="21422000" />
     </task>
     <servers />
   </component>
@@ -123,25 +160,25 @@
       <screen x="1440" y="0" width="2560" height="1440" />
     </state>
     <state x="2533" y="442" key="#com.intellij.ide.util.MemberChooser/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575355004109" />
-    <state width="2518" height="426" key="GridCell.Tab.0.bottom" timestamp="1575356335780">
+    <state width="2518" height="426" key="GridCell.Tab.0.bottom" timestamp="1575360538342">
       <screen x="1440" y="0" width="2560" height="1440" />
     </state>
-    <state width="2518" height="426" key="GridCell.Tab.0.bottom/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575356335780" />
+    <state width="2518" height="426" key="GridCell.Tab.0.bottom/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575360538342" />
     <state width="2518" height="397" key="GridCell.Tab.0.bottom/1440.23.2560.1417/0.23.1440.812@1440.23.2560.1417" timestamp="1575277212173" />
-    <state width="2518" height="426" key="GridCell.Tab.0.center" timestamp="1575356335779">
+    <state width="2518" height="426" key="GridCell.Tab.0.center" timestamp="1575360538340">
       <screen x="1440" y="0" width="2560" height="1440" />
     </state>
-    <state width="2518" height="426" key="GridCell.Tab.0.center/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575356335779" />
+    <state width="2518" height="426" key="GridCell.Tab.0.center/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575360538340" />
     <state width="2518" height="397" key="GridCell.Tab.0.center/1440.23.2560.1417/0.23.1440.812@1440.23.2560.1417" timestamp="1575277212172" />
-    <state width="2518" height="426" key="GridCell.Tab.0.left" timestamp="1575356335777">
+    <state width="2518" height="426" key="GridCell.Tab.0.left" timestamp="1575360538339">
       <screen x="1440" y="0" width="2560" height="1440" />
     </state>
-    <state width="2518" height="426" key="GridCell.Tab.0.left/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575356335777" />
+    <state width="2518" height="426" key="GridCell.Tab.0.left/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575360538339" />
     <state width="2518" height="397" key="GridCell.Tab.0.left/1440.23.2560.1417/0.23.1440.812@1440.23.2560.1417" timestamp="1575277212171" />
-    <state width="2518" height="426" key="GridCell.Tab.0.right" timestamp="1575356335780">
+    <state width="2518" height="426" key="GridCell.Tab.0.right" timestamp="1575360538341">
       <screen x="1440" y="0" width="2560" height="1440" />
     </state>
-    <state width="2518" height="426" key="GridCell.Tab.0.right/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575356335780" />
+    <state width="2518" height="426" key="GridCell.Tab.0.right/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575360538341" />
     <state width="2518" height="397" key="GridCell.Tab.0.right/1440.23.2560.1417/0.23.1440.812@1440.23.2560.1417" timestamp="1575277212172" />
     <state x="2229" y="359" key="SettingsEditor" timestamp="1575266150740">
       <screen x="1440" y="0" width="2560" height="1440" />

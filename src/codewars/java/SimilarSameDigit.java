@@ -1,4 +1,4 @@
-package codewars;
+package codewars.java;
 
 public class SimilarSameDigit {
     public static long nextSmaller(long n) {

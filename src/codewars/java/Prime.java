@@ -1,4 +1,4 @@
-package codewars;
+package codewars.java;
 
 public class Prime {
     public static boolean isPrime(int num) {
