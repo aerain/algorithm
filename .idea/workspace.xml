@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1937c806-da17-4abd-aaa7-a97b8d5722b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codewars/java/BooleanOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/java/CheckAndMate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/java/ClosestPairLinearArithmicTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/java/Go.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/java/InsaneColouredTriangles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/java/Interval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/java/JomoPipi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/java/RailFenceCipher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/java/RegExpParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/java/RowOfOddTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/java/Transpiler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/kotlin/FindMissingLetter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/kotlin/MiddleCharacter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/kotlin/PlayPass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/kotlin/dna.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testdome/DecoratorStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testdome/Folders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testdome/SortedSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/java/Boggle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/java/Snail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codewars/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/java/Main.java" afterDir="false" />
     </list>
@@ -168,7 +152,9 @@
       <workItem from="1575505610564" duration="4796000" />
       <workItem from="1575851869812" duration="21117000" />
       <workItem from="1576629972176" duration="1528000" />
-      <workItem from="1577169455885" duration="614000" />
+      <workItem from="1577169455885" duration="669000" />
+      <workItem from="1577170324720" duration="506000" />
+      <workItem from="1577319377381" duration="5445000" />
     </task>
     <servers />
   </component>
@@ -197,27 +183,31 @@
       <screen x="1440" y="0" width="2560" height="1440" />
     </state>
     <state x="2533" y="442" key="#com.intellij.ide.util.MemberChooser/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575355004109" />
-    <state width="2518" height="426" key="GridCell.Tab.0.bottom" timestamp="1575885677927">
-      <screen x="1440" y="0" width="2560" height="1440" />
+    <state width="2518" height="426" key="GridCell.Tab.0.bottom" timestamp="1577423924412">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
+    <state width="2518" height="426" key="GridCell.Tab.0.bottom/0.0.2560.1440/2560.540.1440.900@0.0.2560.1440" timestamp="1577423924412" />
     <state width="2518" height="426" key="GridCell.Tab.0.bottom/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575885677927" />
     <state width="2518" height="426" key="GridCell.Tab.0.bottom/1440.0.2560.1440/0.23.1440.877@1440.0.2560.1440" timestamp="1575361919928" />
     <state width="2518" height="397" key="GridCell.Tab.0.bottom/1440.23.2560.1417/0.23.1440.812@1440.23.2560.1417" timestamp="1575277212173" />
-    <state width="2518" height="426" key="GridCell.Tab.0.center" timestamp="1575885677926">
-      <screen x="1440" y="0" width="2560" height="1440" />
+    <state width="2518" height="426" key="GridCell.Tab.0.center" timestamp="1577423924410">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
+    <state width="2518" height="426" key="GridCell.Tab.0.center/0.0.2560.1440/2560.540.1440.900@0.0.2560.1440" timestamp="1577423924410" />
     <state width="2518" height="426" key="GridCell.Tab.0.center/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575885677926" />
     <state width="2518" height="426" key="GridCell.Tab.0.center/1440.0.2560.1440/0.23.1440.877@1440.0.2560.1440" timestamp="1575361919926" />
     <state width="2518" height="397" key="GridCell.Tab.0.center/1440.23.2560.1417/0.23.1440.812@1440.23.2560.1417" timestamp="1575277212172" />
-    <state width="2518" height="426" key="GridCell.Tab.0.left" timestamp="1575885677926">
-      <screen x="1440" y="0" width="2560" height="1440" />
+    <state width="2518" height="426" key="GridCell.Tab.0.left" timestamp="1577423924409">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
+    <state width="2518" height="426" key="GridCell.Tab.0.left/0.0.2560.1440/2560.540.1440.900@0.0.2560.1440" timestamp="1577423924409" />
     <state width="2518" height="426" key="GridCell.Tab.0.left/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575885677926" />
     <state width="2518" height="426" key="GridCell.Tab.0.left/1440.0.2560.1440/0.23.1440.877@1440.0.2560.1440" timestamp="1575361919925" />
     <state width="2518" height="397" key="GridCell.Tab.0.left/1440.23.2560.1417/0.23.1440.812@1440.23.2560.1417" timestamp="1575277212171" />
-    <state width="2518" height="426" key="GridCell.Tab.0.right" timestamp="1575885677927">
-      <screen x="1440" y="0" width="2560" height="1440" />
+    <state width="2518" height="426" key="GridCell.Tab.0.right" timestamp="1577423924411">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
+    <state width="2518" height="426" key="GridCell.Tab.0.right/0.0.2560.1440/2560.540.1440.900@0.0.2560.1440" timestamp="1577423924411" />
     <state width="2518" height="426" key="GridCell.Tab.0.right/1440.0.2560.1440/0.0.1440.900@1440.0.2560.1440" timestamp="1575885677927" />
     <state width="2518" height="426" key="GridCell.Tab.0.right/1440.0.2560.1440/0.23.1440.877@1440.0.2560.1440" timestamp="1575361919927" />
     <state width="2518" height="397" key="GridCell.Tab.0.right/1440.23.2560.1417/0.23.1440.812@1440.23.2560.1417" timestamp="1575277212172" />
